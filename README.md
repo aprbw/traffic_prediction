@@ -6,6 +6,9 @@ Also relevant: https://paperswithcode.com/task/traffic-prediction
 
 ## Summary
 
+A = publically **A**vailable
+
+N = **N**ot publically available
 
 |   model  |  venue  | published date |    A    |     A    |      A     |      A     |   A  |    A    |    A    |    A   |    A   |    A   |    A   |   N   |  N  |  N  |   N   |   N   |    N   |       |
 |:--------:|:-------:|:--------------:|:-------:|:--------:|:----------:|:----------:|:----:|:-------:|:-------:|:------:|:------:|:------:|:------:|:-----:|:---:|:---:|:-----:|:-----:|:------:|-------|
