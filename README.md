@@ -7,6 +7,14 @@ https://paperswithcode.com/task/traffic-prediction
 
 ## Performance
 
+NOTE: The experimental setttings may vary. But the common setting is:
+
+* Observation window = 12 timesteps
+
+* Prediction horizon = 1 timesteps
+
+* Prediction window = 12 timesteps
+
 ## Dataset
 
 ## Paper
@@ -19,4 +27,3 @@ https://paperswithcode.com/task/traffic-prediction
 * **MRA-BGCN**	Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting
 * **STSGCN**	Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting
 * **SLCNN**	Spatio-Temporal Graph Structure Learning for Traffic Forecasting
-
