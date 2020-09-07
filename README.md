@@ -17,7 +17,6 @@ N = **N**ot publically available),
 and then number of usage.
 
 
-
 |   model  |  venue  | published date |    A    |     A    |      A     |      A     |    A    |    A    |   A  |    A    |    A    |   N   |   N   |  N  |  N  |   N   |    N   |       |
 |:--------:|:-------:|:--------------:|:-------:|:--------:|:----------:|:----------:|:-------:|:-------:|:----:|:-------:|:-------:|:-----:|:-----:|:---:|:---:|:-----:|:------:|-------|
 |          |         |                | METR-LA | PeMS-BAY | PeMS-D7(M) | PeMS-D7(L) | PeMS-04 | PeMS-08 | LOOP | PeMS-03 | PeMS-07 | INRIX | BJER4 | BJF | BRF | BRF-L | Xiamen | TOTAL |
@@ -27,6 +26,7 @@ and then number of usage.
 |  STSGCN  |   AAAI  |   7 Feb 2020   |         |          |            |            |    1    |    1    |      |    1    |    1    |       |       |     |     |       |        |   4   |
 |   SLCNN  |   AAAI  |   7 Feb 2020   |    1    |     1    |      1     |            |         |         |      |         |         |       |       |  1  |  1  |   1   |        |   6   |
 |   GWNV2  |  arXiv  |   11 Dec 2019  |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |   2   |
+|  DeepGLO | NeurIPS |   8 Dec 2019   |         |          |      1     |            |         |         |      |         |         |       |       |     |     |       |        |   1   |
 | TGC-LSTM |  T-ITS  |   28 Nov 2019  |         |          |            |            |         |         |   1  |         |         |   1   |       |     |     |       |        |   2   |
 |    GWN   |  IJCAI  |   10 Aug 2019  |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |   2   |
 |  ST-UNet |  arXiv  |    13 Mar 19   |    1    |          |      1     |      1     |         |         |      |         |         |       |       |     |     |       |        |   3   |
@@ -35,7 +35,8 @@ and then number of usage.
 |   STGCN  |  IJCAI  |    13 Jul 18   |         |          |      1     |      1     |         |         |      |         |         |       |   1   |     |     |       |        |   3   |
 |   DCRNN  |   ICLR  |    30 Apr 18   |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |   2   |
 | SBU-LSTM | UrbComp |   14 Aug 2017  |         |          |            |            |         |         |   1  |         |         |   1   |       |     |     |       |        |   2   |
-|          |         |      TOTAL     |    6    |     6    |      4     |      3     |    3    |    3    |   2  |    1    |    1    |   2   |   1   |  1  |  1  |   1   |    1   |       |
+|          |         |      TOTAL     |    6    |     6    |      5     |      3     |    3    |    3    |   2  |    1    |    1    |   2   |   1   |  1  |  1  |   1   |    1   |       |
+
 
 
 
@@ -127,6 +128,7 @@ The papers are sorted alphabetically. The citations are based on Google scholar 
 | ASTGCN   |        63 | AAAI    |    27 Jan 2019 | Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting                                         | https://www.aaai.org/ojs/index.php/AAAI/article/view/3881/3759                                                                                                            |
 | SBU-LSTM |       157 | UrbComp |    14 Aug 2017 | Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction                      | https://arxiv.org/abs/1801.02143                                                                                                                                          |
 | DCRNN    |       389 | ICLR    |      30 Apr 18 | DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING                                                  | https://arxiv.org/abs/1707.01926v3                                                                                                                                        |
+| DeepGLO  |        22 | NeurIPS |     8 Dec 2019 | Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting                                  | https://arxiv.org/abs/1905.03806                                                                                                                                     |
 | GMAN     |        20 | AAAI    |     7 Feb 2020 | GMAN: A Graph Multi-Attention Network for Traffic Prediction                                                                       | https://arxiv.org/abs/1911.08415                                                                                                                                          |
 | GWN      |        46 | IJCAI   |    10 Aug 2019 | Graph WaveNet for Deep Spatial-Temporal Graph Modeling                                                                             | https://www.ijcai.org/Proceedings/2019/0264.pdf                                                                                                                           |
 | GWNV2    |         0 | arXiv   |    11 Dec 2019 | Incrementally Improving Graph WaveNet Performance on Traffic Prediction                                                            | https://arxiv.org/abs/1912.07390                                                                                                                                          |
