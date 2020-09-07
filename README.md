@@ -11,7 +11,7 @@ The papers are haphazardly selected.
 A tabular summary of paper and dataset.
 The paper is reverse chronologically sorted.
 The dataset is first sorted by if it is publically available
-(A = publically **A**vailable
+(A = publically **A**vailable;
 N = **N**ot publically available),
 and then number of usage.
 
