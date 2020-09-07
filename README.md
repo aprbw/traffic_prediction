@@ -116,9 +116,17 @@ All the Caltrans PeMS dataset are pulled from here http://pems.dot.ca.gov/
 [Baidu with code: "p72z"](https://pan.baidu.com/s/1ZPIiOM__r1TRlmY4YGlolw) 
 [From Davidham3 github STSGCN](https://github.com/Davidham3/STSGCN)
 
+* **PeMS-SF** [UCI](https://archive.ics.uci.edu/ml/datasets/PEMS-SF)
+
+* **MnDOT** https://www.d.umn.edu/~tkwon/TMCdata/TMCarchive.html
+
+* **OpenITS** http://www.openits.cn/openData/index.jhtml
+
+* **FHWA** https://www.fhwa.dot.gov/policyinformation/tables/tmasdata/
+
 The following datasets are not publically available:
 
-* INRIX
+* INRIX https://pdfs.semanticscholar.org/4b9c/9389719caff7409d9f9cee8628aef4e38b3b.pdf
 
 * Beijing
 
@@ -134,7 +142,7 @@ The following datasets are not publically available:
     
     * E5-2907
 
-* Xiamen
+* Xiamen https://ieeexplore.ieee.org/document/8029849
 
 Also relevant:
 
