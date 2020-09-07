@@ -48,7 +48,7 @@ and then number of usage.
 
 ## Performance
 
-NOTE: The experimental setttings may vary. But the common setting is:
+NOTES: The experimental setttings may vary. But the common setting is:
 
 * Observation window = 12 timesteps
 
@@ -56,7 +56,15 @@ NOTE: The experimental setttings may vary. But the common setting is:
 
 * Prediction window = 12 timesteps
 
+However, there are many caveats:
 
+* Some use different batch size when testing previous models, as they increase the observation and prediction windows from previous studies, and have difficulties fitting it on GPU using the same batch size.
+
+* Regarding adjacency matrix, some derive it using RBF from the coordinates, some use the actual connectivity, some simply learn it, and some use combinations.
+
+* Some might also add more context, such as time of day, or day of the week.
+
+* DeepGLO in particular, since it is treating it as a multi-channel timeseries without the spatial information, use rolling validation, 
 
 
 
