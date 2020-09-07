@@ -178,6 +178,7 @@ The papers are sorted alphabetically based on model name. The citations are base
 |   STGCN  |    322    |  IJCAI  |    13 Jul 18   | [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://arxiv.org/abs/1709.04875)                                                                               |
 |  STSGCN  |     5     |   AAAI  |   7 Feb 2020   | [Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting](https://github.com/Davidham3/STSGCN/blob/master/paper/AAAI2020-STSGCN.pdf)             |
 | TGC-LSTM |     95    |  T-ITS  |   28 Nov 2019  | [Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting](https://ieeexplore.ieee.org/document/8917706)                                |
+|  TSE-SC  |      0    |Trans-GIS|   01 Jun 2020  | [Traffic transformer: Capturing the continuity and periodicity of time series for traffic forecasting](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12644)                                |
 
 
 
