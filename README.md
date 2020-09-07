@@ -204,4 +204,6 @@ Other works that is not based on a static spatial graph of timeseries:
 
 * [BusTr](https://dl.acm.org/doi/pdf/10.1145/3394486.3403376) SIG KDD 2020
 
+* https://github.com/Alro10/deep-learning-time-series
+
 
