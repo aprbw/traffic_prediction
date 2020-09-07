@@ -157,9 +157,15 @@ Also relevant:
 
 * [Davidham3 list](https://github.com/Davidham3/spatio-temporal-paper-list)
 
+## Other works
+
+Other works that is not based on a static spatial graph of timeseries:
+
 * [VLUC](https://arxiv.org/abs/1911.06982)
 
-* [STDN]
+* [STDN](https://arxiv.org/pdf/1803.01254.pdf)
+
+* [Deep Representation Learning for Trajectory Similarity Computation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8509283)
 
 
 
