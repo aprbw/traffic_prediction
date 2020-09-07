@@ -113,13 +113,19 @@ The following datasets are not publically available:
 
 * INRIX
 
-* BJER4
+* Beijing
 
-* BJF
-
-* BRF
-
-* BRF-L
+    * BJER4
+    
+    * BJF
+    
+    * BRF
+    
+    * BRF-L
+    
+    * W3-715
+    
+    * E5-2907
 
 * Xiamen
 
