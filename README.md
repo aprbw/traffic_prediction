@@ -138,7 +138,9 @@ Also relevant:
 
 ## Paper
 
-The papers are sorted alphabetically. The citations are based on Google scholar citation on 2020 09 07.
+The papers are sorted alphabetically based on model name. The citations are based on Google scholar citation on 2020 09 07.
+
+
 
 
 
@@ -153,6 +155,7 @@ The papers are sorted alphabetically. The citations are based on Google scholar 
 |   GMAN   |     20    |   AAAI  |   7 Feb 2020   | [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://arxiv.org/abs/1911.08415)                                                                                                                  |
 |    GWN   |     46    |  IJCAI  |   10 Aug 2019  | [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://www.ijcai.org/Proceedings/2019/0264.pdf)                                                                                                         |
 |   GWNV2  |     0     |  arXiv  |   11 Dec 2019  | [Incrementally Improving Graph WaveNet Performance on Traffic Prediction](https://arxiv.org/abs/1912.07390)                                                                                                       |
+|  H-STGCN |     0     |   KDD   |   23 Aug 2020  | [Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://dl.acm.org/doi/pdf/10.1145/3394486.3403358)                                                       |
 | MRA-BGCN |     7     |   AAAI  |   7 Feb 2020   | [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://aaai.org/ojs/index.php/AAAI/article/view/5758/5614)                                                               |
 | SBU-LSTM |    157    | UrbComp |   14 Aug 2017  | [Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction](https://arxiv.org/abs/1801.02143)                                                                 |
 |   SLCNN  |     1     |   AAAI  |   7 Feb 2020   | [Spatio-Temporal Graph Structure Learning for Traffic Forecasting](https://aaai.org/ojs/index.php/AAAI/article/view/5470/5326)                                                                                    |
@@ -160,7 +163,6 @@ The papers are sorted alphabetically. The citations are based on Google scholar 
 |   STGCN  |    322    |  IJCAI  |    13 Jul 18   | [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://arxiv.org/abs/1709.04875)                                                                               |
 |  STSGCN  |     5     |   AAAI  |   7 Feb 2020   | [Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting](https://github.com/Davidham3/STSGCN/blob/master/paper/AAAI2020-STSGCN.pdf)             |
 | TGC-LSTM |     95    |  T-ITS  |   28 Nov 2019  | [Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting](https://ieeexplore.ieee.org/document/8917706)                                |
-|  H-STGCN |     0     |   KDD   |   23 Aug 2020  | [Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://dl.acm.org/doi/pdf/10.1145/3394486.3403358)                                                       |
 
 
 
