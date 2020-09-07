@@ -1,6 +1,7 @@
 # Traffic Prediction
 
 Traffic prediction is the task of predicting future traffic measurements (e.g. volume, speed, etc.) in a road network (graph), using historical data (timeseries).
+Similar task, like NYC taxi and bike, are not included, because they tend to be represented as a grid, not a graph.
 
 Also relevant: https://paperswithcode.com/task/traffic-prediction
 
@@ -64,7 +65,34 @@ NOTE: The experimental setttings may vary. But the common setting is:
 
 ## Dataset
 
-METR-LA	PeMS-BAY	PeMS-D7(M)	PeMS-D7(L)	LOOP	PeMS-04	PeMS-08	PeMS03	PeMS04	PeMS07	PeMS08
+[Publically available datasets and where to find them.](https://en.wikipedia.org/wiki/Fantastic_Beasts_and_Where_to_Find_Them)
+
+All the Caltrans PeMS dataset are pulled from here http://pems.dot.ca.gov/
+
+* **METR-LA**
+[DCRNN Google Drive](https://drive.google.com/drive/folders/10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX)
+[DCRNN Baidu](https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g#list/path=%2F)
+[Sensor coordinates and adjacency matrix, also from DCRNN](https://github.com/liyaguang/DCRNN/tree/master/data/sensor_graph)
+
+* **PeMS-BAY**
+[DCRNN Google Drive](https://drive.google.com/drive/folders/10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX)
+[DCRNN Baidu](https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g#list/path=%2F)
+[Sensor coordinates and adjacency matrix, also from DCRNN](https://github.com/liyaguang/DCRNN/tree/master/data/sensor_graph)
+
+* **PeMS-D7(M)** 
+
+* **PeMS-D7(L)** 
+
+* **PeMS-04** 
+
+* **PeMS-08** 
+
+* **LOOP** https://github.com/zhiyongc/Seattle-Loop-Data
+
+* **PeMS-03** 
+
+* **PeMS-07** 
+
 
 The following datasets are not publically available:
 
@@ -80,9 +108,9 @@ The following datasets are not publically available:
 
 * Xiamen
 
+Also relevant:
 
-
-
+* [Davidham3 list](https://github.com/Davidham3/open-traffic-datasets)
 
 
 
@@ -108,5 +136,10 @@ The papers are sorted alphabetically. The citations are based on Google scholar 
 | SLCNN    |         1 | AAAI    |     7 Feb 2020 | Spatio-Temporal Graph Structure Learning for Traffic Forecasting                                                                   | https://aaai.org/ojs/index.php/AAAI/article/view/5470/5326                                                                                                                |
 | ST-UNet  |        11 | arXiv   |      13 Mar 19 | ST-UNet: A Spatio-Temporal U-Network for Graph-structured Time Series Modeling                                                     | https://arxiv.org/abs/1903.05631                                                                                                                                          |
 | TGC-LSTM |        95 | T-ITS   |    28 Nov 2019 | Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting | https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8917706&casa_token=Vfm5kpRcwiwAAAAA:B74LVeC_MpayC0Z_CwOXRPopf13f3qosTy2SxhaDqchCNG3SBMJ8qfpmkYCwfO4R0hI-bSJ4XQ&tag=1 |
+
+Also relevant:
+
+* [Davidham3 list](https://github.com/Davidham3/spatio-temporal-paper-list)
+
 
 
