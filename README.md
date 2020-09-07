@@ -135,7 +135,7 @@ The papers are sorted alphabetically. The citations are based on Google scholar 
 | STGCN    |       322 | IJCAI   |      13 Jul 18 | Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting                                    | https://arxiv.org/abs/1709.04875                                                                                                                                          |
 | SLCNN    |         1 | AAAI    |     7 Feb 2020 | Spatio-Temporal Graph Structure Learning for Traffic Forecasting                                                                   | https://aaai.org/ojs/index.php/AAAI/article/view/5470/5326                                                                                                                |
 | ST-UNet  |        11 | arXiv   |      13 Mar 19 | ST-UNet: A Spatio-Temporal U-Network for Graph-structured Time Series Modeling                                                     | https://arxiv.org/abs/1903.05631                                                                                                                                          |
-| TGC-LSTM |        95 | T-ITS   |    28 Nov 2019 | Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting | https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8917706&casa_token=Vfm5kpRcwiwAAAAA:B74LVeC_MpayC0Z_CwOXRPopf13f3qosTy2SxhaDqchCNG3SBMJ8qfpmkYCwfO4R0hI-bSJ4XQ&tag=1 |
+| TGC-LSTM |        95 | T-ITS   |    28 Nov 2019 | Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting | https://ieeexplore.ieee.org/document/8917706 |
 
 Also relevant:
 
