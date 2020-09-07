@@ -17,24 +17,31 @@ and then number of usage.
 
 
 
-|   model  |  venue  | published date |    A    |     A    |      A     |      A     |   A  |    A    |    A    |    A   |    A   |    A   |    A   |   N   |   N   |  N  |  N  |   N   |    N   |       |
-|:--------:|:-------:|:--------------:|:-------:|:--------:|:----------:|:----------:|:----:|:-------:|:-------:|:------:|:------:|:------:|:------:|:-----:|:-----:|:---:|:---:|:-----:|:------:|-------|
-|          |         |                | METR-LA | PeMS-BAY | PeMS-D7(M) | PeMS-D7(L) | LOOP | PeMS-04 | PeMS-08 | PeMS03 | PeMS04 | PeMS07 | PeMS08 | INRIX | BJER4 | BJF | BRF | BRF-L | Xiamen | TOTAL |
-|   AGCRN  |  arXiv  |   6 Jul 2020   |         |          |            |            |      |    1    |    1    |        |        |        |        |       |       |     |     |       |        |   2   |
-|   GMAN   |   AAAI  |   7 Feb 2020   |         |     1    |            |            |      |         |         |        |        |        |        |       |       |     |     |       |    1   |   2   |
-| MRA-BGCN |   AAAI  |   7 Feb 2020   |    1    |     1    |            |            |      |         |         |        |        |        |        |       |       |     |     |       |        |   2   |
-|  STSGCN  |   AAAI  |   7 Feb 2020   |         |          |            |            |      |         |         |    1   |    1   |    1   |    1   |       |       |     |     |       |        |   4   |
-|   SLCNN  |   AAAI  |   7 Feb 2020   |    1    |     1    |      1     |            |      |         |         |        |        |        |        |       |       |  1  |  1  |   1   |        |   6   |
-|   GWNV2  |  arXiv  |   11 Dec 2019  |    1    |     1    |            |            |      |         |         |        |        |        |        |       |       |     |     |       |        |   2   |
-| TGC-LSTM |  T-ITS  |   28 Nov 2019  |         |          |            |            |   1  |         |         |        |        |        |        |   1   |       |     |     |       |        |   2   |
-|    GWN   |  IJCAI  |   10 Aug 2019  |    1    |     1    |            |            |      |         |         |        |        |        |        |       |       |     |     |       |        |   2   |
-|  ST-UNet |  arXiv  |    13 Mar 19   |    1    |          |      1     |      1     |      |         |         |        |        |        |        |       |       |     |     |       |        |   3   |
-|  3D-TGCN |  arXiv  |   3 Mar 2019   |         |          |      1     |      1     |      |         |         |        |        |        |        |       |       |     |     |       |        |   2   |
-|  ASTGCN  |   AAAI  |   27 Jan 2019  |         |          |            |            |      |    1    |    1    |        |        |        |        |       |       |     |     |       |        |   2   |
-|   STGCN  |  IJCAI  |    13 Jul 18   |         |          |      1     |      1     |      |         |         |        |        |        |        |       |   1   |     |     |       |        |   3   |
-|   DCRNN  |   ICLR  |    30 Apr 18   |    1    |     1    |            |            |      |         |         |        |        |        |        |       |       |     |     |       |        |   2   |
-| SBU-LSTM | UrbComp |   14 Aug 2017  |         |          |            |            |   1  |         |         |        |        |        |        |   1   |       |     |     |       |        |   2   |
-|          |         |      TOTAL     |    6    |     6    |      4     |      3     |   2  |    2    |    2    |    1   |    1   |    1   |    1   |   2   |   1   |  1  |  1  |   1   |    1   |       |
+|   model  |  venue  | published date |    A    |     A    |      A     |      A     |    A    |    A    |   A  |    A    |    A    |   N   |   N   |  N  |  N  |   N   |    N   |       |
+|:--------:|:-------:|:--------------:|:-------:|:--------:|:----------:|:----------:|:-------:|:-------:|:----:|:-------:|:-------:|:-----:|:-----:|:---:|:---:|:-----:|:------:|-------|
+|          |         |                | METR-LA | PeMS-BAY | PeMS-D7(M) | PeMS-D7(L) | PeMS-04 | PeMS-08 | LOOP | PeMS-03 | PeMS-07 | INRIX | BJER4 | BJF | BRF | BRF-L | Xiamen | TOTAL |
+|   AGCRN  |  arXiv  |   6 Jul 2020   |         |          |            |            |    1    |    1    |      |         |         |       |       |     |     |       |        |   2   |
+|   GMAN   |   AAAI  |   7 Feb 2020   |         |     1    |            |            |         |         |      |         |         |       |       |     |     |       |    1   |   2   |
+| MRA-BGCN |   AAAI  |   7 Feb 2020   |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |   2   |
+|  STSGCN  |   AAAI  |   7 Feb 2020   |         |          |            |            |    1    |    1    |      |    1    |    1    |       |       |     |     |       |        |   4   |
+|   SLCNN  |   AAAI  |   7 Feb 2020   |    1    |     1    |      1     |            |         |         |      |         |         |       |       |  1  |  1  |   1   |        |   6   |
+|   GWNV2  |  arXiv  |   11 Dec 2019  |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |   2   |
+| TGC-LSTM |  T-ITS  |   28 Nov 2019  |         |          |            |            |         |         |   1  |         |         |   1   |       |     |     |       |        |   2   |
+|    GWN   |  IJCAI  |   10 Aug 2019  |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |   2   |
+|  ST-UNet |  arXiv  |    13 Mar 19   |    1    |          |      1     |      1     |         |         |      |         |         |       |       |     |     |       |        |   3   |
+|  3D-TGCN |  arXiv  |   3 Mar 2019   |         |          |      1     |      1     |         |         |      |         |         |       |       |     |     |       |        |   2   |
+|  ASTGCN  |   AAAI  |   27 Jan 2019  |         |          |            |            |    1    |    1    |      |         |         |       |       |     |     |       |        |   2   |
+|   STGCN  |  IJCAI  |    13 Jul 18   |         |          |      1     |      1     |         |         |      |         |         |       |   1   |     |     |       |        |   3   |
+|   DCRNN  |   ICLR  |    30 Apr 18   |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |   2   |
+| SBU-LSTM | UrbComp |   14 Aug 2017  |         |          |            |            |         |         |   1  |         |         |   1   |       |     |     |       |        |   2   |
+|          |         |      TOTAL     |    6    |     6    |      4     |      3     |    3    |    3    |   2  |    1    |    1    |   2   |   1   |  1  |  1  |   1   |    1   |       |
+
+
+
+
+
+
+
 
 
 ## Performance
@@ -47,7 +54,36 @@ NOTE: The experimental setttings may vary. But the common setting is:
 
 * Prediction window = 12 timesteps
 
+
+
+
+
+
+
+
+
 ## Dataset
+
+METR-LA	PeMS-BAY	PeMS-D7(M)	PeMS-D7(L)	LOOP	PeMS-04	PeMS-08	PeMS03	PeMS04	PeMS07	PeMS08
+
+The following datasets are not publically available:
+
+* INRIX
+
+* BJER4
+
+* BJF
+
+* BRF
+
+* BRF-L
+
+* Xiamen
+
+
+
+
+
 
 
 
