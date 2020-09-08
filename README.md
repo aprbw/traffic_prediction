@@ -40,7 +40,7 @@ and then number of usage.
 |  SBU-LSTM  |  UrbComp  |   14 Aug 2017  |         |          |            |            |         |         |   1  |         |         |   1   |       |     |     |       |        |         |        |   2   |
 |            |           |      TOTAL     |    8    |     7    |      5     |      3     |    3    |    3    |   2  |    1    |    1    |   2   |   1   |  1  |  1  |   1   |    1   |    1    |    1   |       |
 
-
+Notes: Some works, like DeepGLO and GaAN focuses on timeseries or graph, and uses other non-traffic datasets.
 
 
 
