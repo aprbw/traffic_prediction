@@ -55,7 +55,7 @@ Notes: Some works, like DeepGLO and GaAN focuses on timeseries or graph, and use
 
 ![METR-LA MAE@60 mins](https://github.com/aprbw/traffic_prediction/blob/master/METRLA_MAE_60.PNG)
 
-![PeMS-BAY MAE@60 mins](https://github.com/aprbw/traffic_prediction/blob/master/PeMS_BAY_60.PNG)
+![PeMS-BAY MAE@60 mins](https://github.com/aprbw/traffic_prediction/blob/master/PeMSBAY_MAE_60.PNG)
 
 
 NOTES: The experimental setttings may vary. But the common setting is:
