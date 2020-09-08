@@ -189,22 +189,38 @@ You can find the bibtex in traffic_prediction.bib (not complete yet)
 | TGC-LSTM   | 95        | T-ITS     | 28 Nov 2019    | [Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting](https://ieeexplore.ieee.org/document/8917706)                    |  [PyTorch](https://github.com/zhiyongc/Graph_Convolutional_LSTM) |
 | TSE-SC     | 0         | Trans-GIS | 01 Jun 2020    | [Traffic transformer: Capturing the continuity and periodicity of time series for traffic forecasting](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12644)                                    |                                                           |
 
-* [Deep Sequence Learning with Auxiliary Information for Traffic Prediction](https://www.kdd.org/kdd2018/accepted-papers/view/deep-sequence-learning-with-auxiliary-information-for-traffic-prediction) [TensorFlow](https://github.com/JingqingZ/BaiduTraffic/blob/master/src/model.py) KDD18 [TensorFlow](https://github.com/JingqingZ/BaiduTraffic); dataset: [Baidu](https://github.com/JingqingZ/BaiduTraffic)
+* [Deep Sequence Learning with Auxiliary Information for Traffic Prediction](https://www.kdd.org/kdd2018/accepted-papers/view/deep-sequence-learning-with-auxiliary-information-for-traffic-prediction)
+KDD 2018
+[TensorFlow](https://github.com/JingqingZ/BaiduTraffic);
+dataset: [Q-Traffic](https://github.com/JingqingZ/BaiduTraffic)
 
-* [Traffic Flow Prediction With Big Data:
-A Deep Learning Approach](https://ieeexplore.ieee.org/abstract/document/6894591) [Keras](https://github.com/xiaochus/TrafficFlowPrediction); dataset: PeMS but different from everyone else
+* [Traffic Flow Prediction With Big Data: A Deep Learning Approach](https://ieeexplore.ieee.org/abstract/document/6894591)
+T-ITS 2015
+[Keras](https://github.com/xiaochus/TrafficFlowPrediction);
+dataset: PeMS but different from everyone else
 
-* [Using LSTM and GRU neural network methods for traffic flow prediction](https://ieeexplore.ieee.org/abstract/document/7804912) [Keras](https://github.com/xiaochus/TrafficFlowPrediction); dataset: PeMS but different from everyone else
+* [Using LSTM and GRU neural network methods for traffic flow prediction](https://ieeexplore.ieee.org/abstract/document/7804912)
+IEEE YAC 2016
+[Keras](https://github.com/xiaochus/TrafficFlowPrediction);
+dataset: PeMS but different from everyone else
 
-* [A Dynamic Traffic Awareness System for Urban Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8875288) [Keras](https://github.com/wangz315/ClusterPredictTrafficFlow) IEEE GreenCom 2019; dataset: CityPulse
+* [A Dynamic Traffic Awareness System for Urban Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8875288)
+IEEE GreenCom 2019
+[Keras](https://github.com/wangz315/ClusterPredictTrafficFlow);
+dataset: CityPulse
 
-* [Foreseeing Congestion using LSTM on Urban Traffic Flow Clusters](https://ieeexplore.ieee.org/document/9010150) Keras](https://github.com/wangz315/ClusterPredictTrafficFlow) ICSAI 2019; dataset: CityPulse
+* [Foreseeing Congestion using LSTM on Urban Traffic Flow Clusters](https://ieeexplore.ieee.org/document/9010150)
+ICSAI 2019
+[Keras](https://github.com/wangz315/ClusterPredictTrafficFlow);
+dataset: CityPulse
+
+* Multi-Attention Temporal and Graph Convolution Network for Traffic Flow Forecasting [PyTorch](https://github.com/lk485/matgcn)
 
 * [Pattern Sensitive Prediction of Traffic Flow Based on Generative Adversarial Framework](https://ieeexplore.ieee.org/document/8438991); dataset: PeMS but different from everyone else
 
 * [LSTM-based traffic flow prediction with missing data](https://www.sciencedirect.com/science/article/pii/S0925231218310294) NeuCom 2018; dataset: PeMS but different from everyone else
 
-* Multi-Attention Temporal and Graph Convolution Network for Traffic Flow Forecasting [PyTorch](https://github.com/lk485/matgcn)
+
 
 
 
