@@ -81,43 +81,43 @@ However, there are many caveats:
 
 [Publically available datasets and where to find them.](https://en.wikipedia.org/wiki/Fantastic_Beasts_and_Where_to_Find_Them)
 
-All the Caltrans PeMS dataset are pulled from here http://pems.dot.ca.gov/
-
 * **METR-LA**
 [DCRNN Google Drive](https://drive.google.com/drive/folders/10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX); 
 [DCRNN Baidu](https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g#list/path=%2F); 
 [Sensor coordinates and adjacency matrix, also from DCRNN](https://github.com/liyaguang/DCRNN/tree/master/data/sensor_graph)
 
-* **PeMS-BAY**
-[DCRNN Google Drive](https://drive.google.com/drive/folders/10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX); 
-[DCRNN Baidu](https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g#list/path=%2F); 
-[Sensor coordinates and adjacency matrix, also from DCRNN](https://github.com/liyaguang/DCRNN/tree/master/data/sensor_graph)
+* California department of transportation (**Caltrans**) Performance Measurement System (**PeMS**). The website is: http://pems.dot.ca.gov/. From the website: The traffic data displayed on the map is collected in real-time from over 39,000 individual detectors. These sensors span the freeway system across all major metropolitan areas of the State of California
 
-* **PeMS-D7(M)** 
+    * **PeMS-BAY**
+    [DCRNN Google Drive](https://drive.google.com/drive/folders/10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX); 
+    [DCRNN Baidu](https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g#list/path=%2F); 
+    [Sensor coordinates and adjacency matrix, also from DCRNN](https://github.com/liyaguang/DCRNN/tree/master/data/sensor_graph)
 
-* **PeMS-D7(L)** 
+    * **PeMS-D7(M)** 
 
-* **PeMS-04** 
-[ATSGCN github](https://github.com/Davidham3/ASTGCN/tree/master/data);
-[Baidu with code: "p72z"](https://pan.baidu.com/s/1ZPIiOM__r1TRlmY4YGlolw) 
-[From Davidham3 github STSGCN](https://github.com/Davidham3/STSGCN)
+    * **PeMS-D7(L)** 
 
-* **PeMS-08** 
-[ATSGCN github](https://github.com/Davidham3/ASTGCN/tree/master/data);
-[Baidu with code: "p72z"](https://pan.baidu.com/s/1ZPIiOM__r1TRlmY4YGlolw) 
-[From Davidham3 github STSGCN](https://github.com/Davidham3/STSGCN)
+    * **PeMS-04** 
+    [ATSGCN github](https://github.com/Davidham3/ASTGCN/tree/master/data);
+    [Baidu with code: "p72z"](https://pan.baidu.com/s/1ZPIiOM__r1TRlmY4YGlolw) 
+    [From Davidham3 github STSGCN](https://github.com/Davidham3/STSGCN)
+
+    * **PeMS-08** 
+    [ATSGCN github](https://github.com/Davidham3/ASTGCN/tree/master/data);
+    [Baidu with code: "p72z"](https://pan.baidu.com/s/1ZPIiOM__r1TRlmY4YGlolw) 
+    [From Davidham3 github STSGCN](https://github.com/Davidham3/STSGCN)
+
+    * **PeMS-03** 
+    [Baidu with code: "p72z"](https://pan.baidu.com/s/1ZPIiOM__r1TRlmY4YGlolw) 
+    [From Davidham3 github STSGCN](https://github.com/Davidham3/STSGCN)
+
+    * **PeMS-07** 
+    [Baidu with code: "p72z"](https://pan.baidu.com/s/1ZPIiOM__r1TRlmY4YGlolw) 
+    [From Davidham3 github STSGCN](https://github.com/Davidham3/STSGCN)
+
+    * **PeMS-SF** [UCI](https://archive.ics.uci.edu/ml/datasets/PEMS-SF)
 
 * **LOOP** https://github.com/zhiyongc/Seattle-Loop-Data
-
-* **PeMS-03** 
-[Baidu with code: "p72z"](https://pan.baidu.com/s/1ZPIiOM__r1TRlmY4YGlolw) 
-[From Davidham3 github STSGCN](https://github.com/Davidham3/STSGCN)
-
-* **PeMS-07** 
-[Baidu with code: "p72z"](https://pan.baidu.com/s/1ZPIiOM__r1TRlmY4YGlolw) 
-[From Davidham3 github STSGCN](https://github.com/Davidham3/STSGCN)
-
-* **PeMS-SF** [UCI](https://archive.ics.uci.edu/ml/datasets/PEMS-SF)
 
 * **MnDOT** https://www.d.umn.edu/~tkwon/TMCdata/TMCarchive.html
 
