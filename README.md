@@ -3,12 +3,6 @@
 Traffic prediction is the task of predicting future traffic measurements (e.g. volume, speed, etc.) in a road network (graph), using historical data (timeseries).
 Similar task, like NYC taxi and bike, are not included, because they tend to be represented as a grid, not a graph.
 
-Also relevant: 
-
-* https://paperswithcode.com/task/traffic-prediction
-
-* [A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9112608) IEEE TKDE 2020
-
 The papers are haphazardly selected.
 
 ## Summary
@@ -194,10 +188,6 @@ You can find the bibtex in traffic_prediction.bib (not complete yet)
 
 
 
-Also relevant:
-
-* [Davidham3 list](https://github.com/Davidham3/spatio-temporal-paper-list)
-
 ## Other works
 
 Other works that is not based on a static spatial graph of timeseries:
@@ -214,4 +204,12 @@ Other works that is not based on a static spatial graph of timeseries:
 
 * https://github.com/Alro10/deep-learning-time-series
 
+Other lists: 
 
+* [Davidham3 list](https://github.com/Davidham3/spatio-temporal-paper-list)
+
+* https://paperswithcode.com/task/traffic-prediction
+
+* [A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9112608) IEEE TKDE 2020
+
+* [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf)
