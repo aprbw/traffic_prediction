@@ -120,11 +120,17 @@ However, there are many caveats:
 
 * **LOOP** https://github.com/zhiyongc/Seattle-Loop-Data
 
+* **Q-Traffic** https://github.com/JingqingZ/BaiduTraffic
+
+[Baidu, code: 'umqd'](https://pan.baidu.com/share/init?surl=s1bauEJs8ONtC65ZkC4N3A)
+
 * **MnDOT** https://www.d.umn.edu/~tkwon/TMCdata/TMCarchive.html
 
 * **OpenITS** http://www.openits.cn/openData/index.jhtml
 
 * **FHWA** https://www.fhwa.dot.gov/policyinformation/tables/tmasdata/
+
+
 
 The following datasets are not publically available:
 
@@ -169,7 +175,7 @@ You can find the bibtex in traffic_prediction.bib (not complete yet)
 | ASTGCN     | 63        | AAAI      | 27 Jan 2019    | [Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881/3759)                                          | [PyTorch](https://github.com/guoshnBJTU/ASTGCN-r-pytorch) |
 | DCRNN      | 389       | ICLR      | 30 Apr 18      | [DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING](https://arxiv.org/abs/1707.01926v3)                                                                               | [TensorFlow](https://github.com/liyaguang/DCRNN)          |
 | DeepGLO    | 22        | NeurIPS   | 8 Dec 19       | [Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting](https://arxiv.org/abs/1905.03806)                                                           |                                                           |
-| GMAN       | 20        | AAAI      | 7 Feb 2020     | [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://arxiv.org/abs/1911.08415)                                                                                                      |                                                           |
+| GMAN       | 20        | AAAI      | 7 Feb 2020     | [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://arxiv.org/abs/1911.08415)                                                                                                      |  [TensorFlow](https://github.com/zhengchuanpan/GMAN)  |
 | GWN        | 46        | IJCAI     | 10 Aug 2019    | [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://www.ijcai.org/Proceedings/2019/0264.pdf)                                                                                             | [PyTorch](https://github.com/nnzhan/Graph-WaveNet)        |
 | GWNV2      | 0         | arXiv     | 11 Dec 2019    | [Incrementally Improving Graph WaveNet Performance on Traffic Prediction](https://arxiv.org/abs/1912.07390)                                                                                           | [PyTorch](https://github.com/sshleifer/Graph-WaveNet)     |
 | H-STGCN    | 0         | KDD       | 23 Aug 2020    | [Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://dl.acm.org/doi/pdf/10.1145/3394486.3403358)                                           |                                                           |
@@ -180,10 +186,25 @@ You can find the bibtex in traffic_prediction.bib (not complete yet)
 | ST-UNet    | 11        | arXiv     | 13 Mar 19      | [ST-UNet: A Spatio-Temporal U-Network for Graph-structured Time Series Modeling](https://arxiv.org/abs/1903.05631)                                                                                    |                                                           |
 | STGCN      | 322       | IJCAI     | 13 Jul 18      | [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://arxiv.org/abs/1709.04875)                                                                   | [TensorFlow](https://github.com/PKUAI26/STGCN-IJCAI-18)   |
 | STSGCN     | 5         | AAAI      | 7 Feb 2020     | [Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting](https://github.com/Davidham3/STSGCN/blob/master/paper/AAAI2020-STSGCN.pdf) | [MXNet](https://github.com/Davidham3/STSGCN)              |
-| TGC-LSTM   | 95        | T-ITS     | 28 Nov 2019    | [Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting](https://ieeexplore.ieee.org/document/8917706)                    |                                                           |
+| TGC-LSTM   | 95        | T-ITS     | 28 Nov 2019    | [Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting](https://ieeexplore.ieee.org/document/8917706)                    |  [PyTorch](https://github.com/zhiyongc/Graph_Convolutional_LSTM) |
 | TSE-SC     | 0         | Trans-GIS | 01 Jun 2020    | [Traffic transformer: Capturing the continuity and periodicity of time series for traffic forecasting](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12644)                                    |                                                           |
 
+* [Deep Sequence Learning with Auxiliary Information for Traffic Prediction](https://www.kdd.org/kdd2018/accepted-papers/view/deep-sequence-learning-with-auxiliary-information-for-traffic-prediction) [TensorFlow](https://github.com/JingqingZ/BaiduTraffic/blob/master/src/model.py) KDD18 [TensorFlow](https://github.com/JingqingZ/BaiduTraffic); dataset: [Baidu](https://github.com/JingqingZ/BaiduTraffic)
 
+* [Traffic Flow Prediction With Big Data:
+A Deep Learning Approach](https://ieeexplore.ieee.org/abstract/document/6894591) [Keras](https://github.com/xiaochus/TrafficFlowPrediction); dataset: PeMS but different from everyone else
+
+* [Using LSTM and GRU neural network methods for traffic flow prediction](https://ieeexplore.ieee.org/abstract/document/7804912) [Keras](https://github.com/xiaochus/TrafficFlowPrediction); dataset: PeMS but different from everyone else
+
+* [A Dynamic Traffic Awareness System for Urban Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8875288) [Keras](https://github.com/wangz315/ClusterPredictTrafficFlow) IEEE GreenCom 2019; dataset: CityPulse
+
+* [Foreseeing Congestion using LSTM on Urban Traffic Flow Clusters](https://ieeexplore.ieee.org/document/9010150) Keras](https://github.com/wangz315/ClusterPredictTrafficFlow) ICSAI 2019; dataset: CityPulse
+
+* [Pattern Sensitive Prediction of Traffic Flow Based on Generative Adversarial Framework](https://ieeexplore.ieee.org/document/8438991); dataset: PeMS but different from everyone else
+
+* [LSTM-based traffic flow prediction with missing data](https://www.sciencedirect.com/science/article/pii/S0925231218310294) NeuCom 2018; dataset: PeMS but different from everyone else
+
+* Multi-Attention Temporal and Graph Convolution Network for Traffic Flow Forecasting [PyTorch](https://github.com/lk485/matgcn)
 
 
 
@@ -207,6 +228,10 @@ Other works that is not based on a static spatial graph of timeseries:
 
 * https://github.com/Alro10/deep-learning-time-series
 
+* https://github.com/henriquejosefaria/CSC
+
+* https://github.com/shakibyzn/Traffic-flow-prediction
+
 Other lists: 
 
 * [Davidham3 list](https://github.com/Davidham3/spatio-temporal-paper-list)
@@ -216,3 +241,5 @@ Other lists:
 * [A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9112608) IEEE TKDE 2020
 
 * [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) IEEE Trans. Neural Netw. Learn. Syst. 2020
+
+* https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers
