@@ -93,13 +93,14 @@ However, there are many caveats:
     [Sensor coordinates and adjacency matrix, also from DCRNN](https://github.com/liyaguang/DCRNN/tree/master/data/sensor_graph)
 
     * **PeMS-D7(M)** 
+    [PKUAI26 STGCN Github](https://github.com/PKUAI26/STGCN-IJCAI-18/blob/master/data_loader/PeMS-M.zip)
 
     * **PeMS-D7(L)** 
 
     * **PeMS-04** 
-    [ATSGCN github](https://github.com/Davidham3/ASTGCN/tree/master/data);
+    [ATSGCN Github](https://github.com/Davidham3/ASTGCN/tree/master/data);
     [Baidu with code: "p72z"](https://pan.baidu.com/s/1ZPIiOM__r1TRlmY4YGlolw) 
-    [From Davidham3 github STSGCN](https://github.com/Davidham3/STSGCN)
+    [From Davidham3 Github STSGCN](https://github.com/Davidham3/STSGCN)
 
     * **PeMS-08** 
     [ATSGCN github](https://github.com/Davidham3/ASTGCN/tree/master/data);
