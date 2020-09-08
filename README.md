@@ -185,6 +185,7 @@ You can find the bibtex in traffic_prediction.bib (not complete yet)
 | SLCNN      | 1         | AAAI      | 7 Feb 2020     | [Spatio-Temporal Graph Structure Learning for Traffic Forecasting](https://aaai.org/ojs/index.php/AAAI/article/view/5470/5326)                                                                        |                                                           |
 | ST-UNet    | 11        | arXiv     | 13 Mar 19      | [ST-UNet: A Spatio-Temporal U-Network for Graph-structured Time Series Modeling](https://arxiv.org/abs/1903.05631)                                                                                    |                                                           |
 | STGCN      | 322       | IJCAI     | 13 Jul 18      | [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://arxiv.org/abs/1709.04875)                                                                   | [TensorFlow](https://github.com/PKUAI26/STGCN-IJCAI-18)   |
+| STGNN      | 4       | WWW     | 20 Apr 20      | [Traffic Flow Prediction via Spatial Temporal Graph Neural Network](https://dl.acm.org/doi/pdf/10.1145/3366423.3380186)                                                                   |   |
 | STSGCN     | 5         | AAAI      | 7 Feb 2020     | [Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting](https://github.com/Davidham3/STSGCN/blob/master/paper/AAAI2020-STSGCN.pdf) | [MXNet](https://github.com/Davidham3/STSGCN)              |
 | TGC-LSTM   | 95        | T-ITS     | 28 Nov 2019    | [Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting](https://ieeexplore.ieee.org/document/8917706)                    |  [PyTorch](https://github.com/zhiyongc/Graph_Convolutional_LSTM) |
 | TSE-SC     | 0         | Trans-GIS | 01 Jun 2020    | [Traffic transformer: Capturing the continuity and periodicity of time series for traffic forecasting](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12644)                                    |                                                           |
@@ -259,3 +260,5 @@ Other lists:
 * [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) IEEE Trans. Neural Netw. Learn. Syst. 2020
 
 * https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers
+
+* https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress
