@@ -53,6 +53,10 @@ and then number of usage.
 
 ## Performance
 
+
+![METR-LA MAE@60 mins](https://github.com/aprbw/traffic_prediction/blob/master/METRLA_MAE_60.PNG)
+
+
 NOTES: The experimental setttings may vary. But the common setting is:
 
 * Observation window = 12 timesteps
