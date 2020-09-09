@@ -256,6 +256,15 @@ Other works that is not based on a static spatial graph of timeseries:
 
 * https://github.com/shakibyzn/Traffic-flow-prediction
 
+* https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks
+
+
+
+
+
+
+
+
 Other lists: 
 
 * [Davidham3 list](https://github.com/Davidham3/spatio-temporal-paper-list)
