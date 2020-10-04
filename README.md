@@ -228,7 +228,7 @@ dataset: CityPulse
 
 * [LSTM-based traffic flow prediction with missing data](https://www.sciencedirect.com/science/article/pii/S0925231218310294) NeuCom 2018; dataset: PeMS but different from everyone else
 
-
+* [STNN: A Spatio-Temporal Neural Network for Traffic Predictions](https://ieeexplore.ieee.org/document/9142387) a.k.a. [STANN](https://www.semanticscholar.org/paper/STANN%3A-A-Spatio%E2%80%93Temporal-Attentive-Neural-Network-He-Chow/2269b54844c079a92e8e27825b39a86bc929322a). T-ITS 2020; dataset: HK.
 
 
 
