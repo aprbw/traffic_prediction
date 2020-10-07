@@ -232,7 +232,7 @@ dataset: CityPulse
 
 * [STNN: A Spatio-Temporal Neural Network for Traffic Predictions](https://ieeexplore.ieee.org/document/9142387) a.k.a. [STANN](https://www.semanticscholar.org/paper/STANN%3A-A-Spatio%E2%80%93Temporal-Attentive-Neural-Network-He-Chow/2269b54844c079a92e8e27825b39a86bc929322a). T-ITS 2020; dataset: HK.
 
-
+* [Graph Wavelet Long Short-Term Memory Neural Network: A Novel Spatial-Temporal Network for Traffic Prediction](https://iopscience.iop.org/article/10.1088/1742-6596/1549/4/042070/meta). Journal of Physics June 2020; dataset METR-LA.
 
 
 
