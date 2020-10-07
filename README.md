@@ -197,6 +197,8 @@ You can find the bibtex in traffic_prediction.bib (not complete yet)
 | TGC-LSTM   | 95        | T-ITS     | 28 Nov 2019    | [Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting](https://ieeexplore.ieee.org/document/8917706)                    |  [PyTorch](https://github.com/zhiyongc/Graph_Convolutional_LSTM) |
 | TSE-SC     | 0         | Trans-GIS | 01 Jun 2020    | [Traffic transformer: Capturing the continuity and periodicity of time series for traffic forecasting](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12644)                                    |                                                           |
 
+Things that would be in the table above if I have more time:
+
 * [Deep Sequence Learning with Auxiliary Information for Traffic Prediction](https://www.kdd.org/kdd2018/accepted-papers/view/deep-sequence-learning-with-auxiliary-information-for-traffic-prediction)
 KDD 2018
 [TensorFlow](https://github.com/JingqingZ/BaiduTraffic);
