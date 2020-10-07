@@ -234,6 +234,11 @@ dataset: CityPulse
 
 * [Graph Wavelet Long Short-Term Memory Neural Network: A Novel Spatial-Temporal Network for Traffic Prediction](https://iopscience.iop.org/article/10.1088/1742-6596/1549/4/042070/meta). Journal of Physics June 2020; dataset METR-LA.
 
+* [STGAT: Spatial-Temporal Graph Attention Networks for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/9146162). IEEE Access 2020 July; METR-LA PeMS-BAY
+
+
+
+
 
 
 ## Other works
