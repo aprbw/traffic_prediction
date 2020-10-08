@@ -237,15 +237,25 @@ You can find the bibtex in traffic_prediction.bib (not complete yet)
 
 Things that would be in the table above if I have more time:
 
-* [Deep Sequence Learning with Auxiliary Information for Traffic Prediction](https://www.kdd.org/kdd2018/accepted-papers/view/deep-sequence-learning-with-auxiliary-information-for-traffic-prediction)
-KDD 2018
-[TensorFlow](https://github.com/JingqingZ/BaiduTraffic);
-dataset: [Q-Traffic](https://github.com/JingqingZ/BaiduTraffic)
 
-* [Traffic Flow Prediction With Big Data: A Deep Learning Approach](https://ieeexplore.ieee.org/abstract/document/6894591)
-T-ITS 2015
-[Keras](https://github.com/xiaochus/TrafficFlowPrediction);
-dataset: PeMS but different from everyone else
+
+
+
+
+
+
+
+
+
+## Other works
+
+
+* Multi-Attention Temporal and Graph Convolution Network for Traffic Flow Forecasting [PyTorch](https://github.com/lk485/matgcn)
+
+* [Foreseeing Congestion using LSTM on Urban Traffic Flow Clusters](https://ieeexplore.ieee.org/document/9010150)
+ICSAI 2019
+[Keras](https://github.com/wangz315/ClusterPredictTrafficFlow);
+dataset: CityPulse
 
 * [Using LSTM and GRU neural network methods for traffic flow prediction](https://ieeexplore.ieee.org/abstract/document/7804912)
 IEEE YAC 2016
@@ -257,29 +267,11 @@ IEEE GreenCom 2019
 [Keras](https://github.com/wangz315/ClusterPredictTrafficFlow);
 dataset: CityPulse
 
-* [Foreseeing Congestion using LSTM on Urban Traffic Flow Clusters](https://ieeexplore.ieee.org/document/9010150)
-ICSAI 2019
-[Keras](https://github.com/wangz315/ClusterPredictTrafficFlow);
-dataset: CityPulse
-
-* Multi-Attention Temporal and Graph Convolution Network for Traffic Flow Forecasting [PyTorch](https://github.com/lk485/matgcn)
-
-* [Pattern Sensitive Prediction of Traffic Flow Based on Generative Adversarial Framework](https://ieeexplore.ieee.org/document/8438991); dataset: PeMS but different from everyone else
-
-* [LSTM-based traffic flow prediction with missing data](https://www.sciencedirect.com/science/article/pii/S0925231218310294) NeuCom 2018; dataset: PeMS but different from everyone else
-
-* [STNN: A Spatio-Temporal Neural Network for Traffic Predictions](https://ieeexplore.ieee.org/document/9142387) a.k.a. [STANN](https://www.semanticscholar.org/paper/STANN%3A-A-Spatio%E2%80%93Temporal-Attentive-Neural-Network-He-Chow/2269b54844c079a92e8e27825b39a86bc929322a). T-ITS 2020; dataset: HK.
-
-* [Graph Wavelet Long Short-Term Memory Neural Network: A Novel Spatial-Temporal Network for Traffic Prediction](https://iopscience.iop.org/article/10.1088/1742-6596/1549/4/042070/meta). Journal of Physics June 2020; dataset METR-LA.
-
-* [STGAT: Spatial-Temporal Graph Attention Networks for Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/9146162). IEEE Access 2020 July; METR-LA PeMS-BAY
 
 
 
 
 
-
-## Other works
 
 Other works that is not based on a static spatial graph of timeseries:
 
