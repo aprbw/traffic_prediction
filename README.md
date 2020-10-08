@@ -167,7 +167,7 @@ Also relevant:
 
 ## Paper
 
-The papers are sorted alphabetically based on model name. The citations are based on Google scholar citation on 2020 09 07.
+The papers are sorted alphabetically based on model name. The citations are based on Google scholar citation.
 
 You can find the bibtex in traffic_prediction.bib (not complete yet)
 
