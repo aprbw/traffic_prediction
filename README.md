@@ -1,7 +1,16 @@
 # Traffic Prediction
 
 Traffic prediction is the task of predicting future traffic measurements (e.g. volume, speed, etc.) in a road network (graph), using historical data (timeseries).
-Similar task, like NYC taxi and bike, are not included, because they tend to be represented as a grid, not a graph.
+
+Things are usually better defined through exclusions, so here are similar things that I do not include:
+
+* NYC taxi and bike, are not included, because they tend to be represented as a grid, not a graph.
+
+* Predicting the movement of individual cars through sensors for the purpose of self-driving car
+
+* Traffic data imputations
+
+* Traffic anomaly detections
 
 The papers are haphazardly selected.
 
