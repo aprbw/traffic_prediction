@@ -4,7 +4,7 @@ Traffic prediction is the task of predicting future traffic measurements (e.g. v
 
 Things are usually better defined through exclusions, so here are similar things that I do not include:
 
-* NYC taxi and bike, are not included, because they tend to be represented as a grid, not a graph.
+* NYC taxi and bike (and other similar datsets, like uber), are not included, because they tend to be represented as a grid, not a graph.
 
 * Predicting the movement of individual cars through sensors for the purpose of self-driving car
 
