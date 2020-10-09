@@ -6,11 +6,15 @@ Things are usually better defined through exclusions, so here are similar things
 
 * NYC taxi and bike (and other similar datsets, like uber), are not included, because they tend to be represented as a grid, not a graph.
 
-* Predicting the movement of individual cars through sensors for the purpose of self-driving car
+* Predicting human mobility, either indoors, or through checking-in in Point of Interest (POI), or through a transport network.
 
-* Traffic data imputations
+* Predicting trajectory.
 
-* Traffic anomaly detections
+* Predicting the movement of individual cars through sensors for the purpose of self-driving car.
+
+* Traffic data imputations.
+
+* Traffic anomaly detections.
 
 The papers are haphazardly selected.
 
