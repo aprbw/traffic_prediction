@@ -81,9 +81,11 @@ NOTES: The experimental setttings may vary. But the common setting is:
 
 However, there are many caveats:
 
+* Some use different models for different prediction horizon.
+
 * Some use different batch size when testing previous models, as they increase the observation and prediction windows from previous studies, and have difficulties fitting it on GPU using the same batch size.
 
-* Regarding adjacency matrix, some derive it using RBF from the coordinates, some use the actual connectivity, some simply learn it, and some use combinations.
+* Regarding adjacency matrix, some derive it using Gaussian RBF from the coordinates, some use the actual connectivity, some simply learn it, and some use combinations.
 
 * Some might also add more context, such as time of day, or day of the week.
 
