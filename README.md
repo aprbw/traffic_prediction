@@ -32,6 +32,7 @@ and then number of usage.
 |    model   |   venue   | published date |    A    |     A    |      A     |      A     |    A    |    A    |   A  |    A    |    A    |   N   |   N   |  N  |  N  |   N   |    N   |    N    |    N   |       |
 |:----------:|:---------:|:--------------:|:-------:|:--------:|:----------:|:----------:|:-------:|:-------:|:----:|:-------:|:-------:|:-----:|:-----:|:---:|:---:|:-----:|:------:|:-------:|:------:|-------|
 |            |           |                | METR-LA | PeMS-BAY | PeMS-D7(M) | PeMS-D7(L) | PeMS-04 | PeMS-08 | LOOP | PeMS-03 | PeMS-07 | INRIX | BJER4 | BJF | BRF | BRF-L | W3-715 | E5-2907 | Xiamen | TOTAL |
+|    DKFN    | SIGSPATIAL |     3 Nov 20   |    1    |          |            |            |         |         |  1   |         |         |       |       |     |     |       |    1   |    1    |        |   2   |
 |   H-STGCN  |    KDD    |    23 Aug 20   |         |          |            |            |         |         |      |         |         |       |       |     |     |       |    1   |    1    |        |   2   |
 |    AGCRN   |   arXiv   |    6 Jul 20    |         |          |            |            |    1    |    1    |      |         |         |       |       |     |     |       |        |         |        |   2   |
 |   TSE-SC   | Trans-GIS |    1 Jun 20    |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |         |        |   2   |
@@ -52,7 +53,7 @@ and then number of usage.
 |    STGCN   |   IJCAI   |    13 Jul 18   |         |          |      1     |      1     |         |         |      |         |         |       |   1   |     |     |       |        |         |        |   3   |
 |    DCRNN   |    ICLR   |    30 Apr 18   |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |         |        |   2   |
 |  SBU-LSTM  |  UrbComp  |    14 Aug 17   |         |          |            |            |         |         |   1  |         |         |   1   |       |     |     |       |        |         |        |   2   |
-|            |           |      TOTAL     |    10   |     8    |      5     |      3     |    3    |    3    |   2  |    1    |    1    |   2   |   1   |  1  |  1  |   1   |    1   |    1    |    1   |       |
+|            |           |      TOTAL     |    11   |     8    |      5     |      3     |    3    |    3    |   3  |    1    |    1    |   2   |   1   |  1  |  1  |   1   |    1   |    1    |    1   |       |
 
 
 
