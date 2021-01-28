@@ -284,13 +284,15 @@ IEEE GreenCom 2019
 [Keras](https://github.com/wangz315/ClusterPredictTrafficFlow);
 dataset: CityPulse
 
+* [Inductive Graph Neural Networks for Spatiotemporal Kriging (IGNNK)](https://arxiv.org/abs/2006.07527)
+AAAI 2021
+[PyTorch](https://github.com/Kaimaoge/IGNNK)
+dataset: METR-LA, PeMS-BAY, LOOP, NREL, USHCN.
 
 
 
 
-
-
-Other works that is not based on a static spatial graph of timeseries:
+Other works that is not based on a static-spatial-graph of timeseries:
 
 * [VLUC](https://arxiv.org/abs/1911.06982)
 
