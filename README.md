@@ -335,6 +335,8 @@ Other lists:
 
 * [A Comprehensive Survey on Geometric Deep Learning](https://ieeexplore.ieee.org/abstract/document/9003285) IEEE Access 19 Feb 2020.
 
+* Older, pre-ML approaches: [On the modeling of traffic and crowds: A survey of models, speculations, and perspectives] (https://epubs.siam.org/doi/pdf/10.1137/090746677?casa_token=ramTXeUx3owAAAAA%3ABIA7wFjs6ZdGWqqCQ2iicLrZfUaZSTgZJtO8eYGDSvaI5IFPIQkCoZPi_btisCGJEV43HDedswY&) SIAM 2011
+
 * https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers
 
 * https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress
