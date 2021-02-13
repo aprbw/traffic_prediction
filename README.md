@@ -20,47 +20,77 @@ The papers are haphazardly selected.
 
 ## Summary
 
-A tabular summary of paper and dataset.
+A tabular summary of paper and publically available datasets.
 The paper is reverse chronologically sorted.
-The dataset is first sorted by if it is publically available
-(A = publically **A**vailable;
-N = **N**ot publically available),
-and then number of usage.
+NO GUARANTEE is made that this table is complete or accurate (please raise an issue if you spot any error).
+
+
+| paper | venue | published date | METR-LA | PeMS-BAY | PeMS-D7(M) | PeMS-D7(L) | PeMS-04 | PeMS-08 | LOOP | SZ-taxi | Los-loop | PeMS-03 | PeMS-07 | PeMS-I-405 | TOTAL | TOTAL open | other dataset |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|  |  | TOTAL | 38 | 28 | 6 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 | 103 | 91 | |
+| GTS | ICLR | 4 May 21 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 | 1 |
+| FASTGNN | TII | 29 Jan 21 |  |  | 1 |  |  |  |  |  |  |  |  |  | 1 | 1 |  |
+| HetGAT | JAIHC | 23 Jan 21 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| GST-GAT | IEEE Access | 6 Jan 21 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| CLGRN | arXiv | 4 Jan 21 | 1 |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 | 1 |
+| DKFN | SIGSPATIAL | 3 Nov 20 | 1 |  |  |  |  |  | 1 |  |  |  |  |  | 2 | 2 |  |
+| STGAM | CISP-BMEI | 17 Oct 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| ARNN | Nat. Commun | 11 Sept 20 | 1 |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |
+| ST-TrafficNet | ELECGJ | 9 Sept 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| M2 | J. AdHoc | 1 Sept 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| H-STGCN | KDD | 23 Aug 20 |  |  |  |  |  |  |  |  |  |  |  |  | 2 | 0 |  |
+| SGMN | J. TRC | 20 Aug 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| GDRNN | NTU | 16 Aug 20 | 1 |  |  |  |  |  |  |  |  |  |  | 1 | 2 | 2 |  |
+| ISTD-GCN | arXiv | 10 Aug 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| GTS | UCONN | 3 Aug 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| FC-GAGA | arXiv | 30 Jul 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| STGAT | IEEE Access | 22 Jul 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| STNN | T-ITS | 16 Jul 20 |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 |  |
+| AGCRN | arXiv | 6 Jul 20 |  |  |  |  | 1 | 1 |  |  |  |  |  |  | 2 | 2 |  |
+| GWNN-LSTM | 	J. Phys. Conf. Ser. | 20 Jun 20 | 1 |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |
+| A3T-GCN | arXiv | 20 Jun 20 |  |  |  |  |  |  |  | 1 | 1 |  |  |  | 2 | 2 |  |
+| TSE-SC | Trans-GIS | 1 Jun 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| MTGNN | arXiv | 24 May 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| ST-MetaNet+ | TKDE | 19 May 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| STGNN | WWW | 20 Apr 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| STSeq2Seq | arXiv | 6 Apr 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| DSTGNN | arXiv | 12 Mar 20 | 1 |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |
+| RSTAG | IoT-J | 19 Feb 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| GMAN | AAAI | 7 Feb 20 |  | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 1 |  |
+| MRA-BGCN | AAAI | 7 Feb 20 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| STSGCN | AAAI | 7 Feb 20 |  |  |  |  | 1 | 1 |  |  |  | 1 | 1 |  | 4 | 4 |  |
+| SLCNN | AAAI | 7 Feb 20 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  | 6 | 3 |  |
+| DDP-GCN | arXiv | 7 Feb 20 |  |  |  |  |  |  |  |  |  |  |  |  | 2 | 0 |  |
+| R-SSM | ICLR | 13 Jan 20 | 1 |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |
+| GWNV2 | arXiv | 11 Dec 19 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| DeepGLO | NeurIPS | 8 Dec 19 |  |  | 1 |  |  |  |  |  |  |  |  |  | 1 | 1 | 1 |
+| STGRAT | arXiv | 29 Nov 19 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| TGC-LSTM | T-ITS | 28 Nov 19 |  |  |  |  |  |  | 1 |  |  |  |  |  | 2 | 1 |  |
+| DCRNN-RIL | TrustCom/BigDataSE | 31 Oct 19 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| L-VGAE | arXiv | 18 Oct 19 | 1 |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |
+| T-GCN | T-ITS | 22 Aug 19 |  |  |  |  |  |  |  | 1 | 1 |  |  |  | 2 | 2 |  |
+| GWN | IJCAI | 10 Aug 19 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| ST-MetaNet | KDD | 25 Jul 19 | 1 |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |
+| MRes-RGNN-G | AAAI | 17 Jul 19 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| CDSA | arXiv | 23 May 19 | 1 |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |
+| STDGI | ICLR | 12 Apr 19 | 1 |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |
+| ST-UNet | arXiv | 13 Mar 19 | 1 |  | 1 | 1 |  |  |  |  |  |  |  |  | 3 | 3 |  |
+| 3D-TGCN | arXiv | 3 Mar 19 |  | 1 | 1 | 1 |  |  |  |  |  |  |  |  | 3 | 3 |  |
+| ASTGCN | AAAI | 27 Jan 19 |  |  |  |  | 1 | 1 |  |  |  |  |  |  | 2 | 2 |  |
+| PSN | T-ITS | 17 Aug 18 |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 0 |  |
+| GaAN | UAI | 6 Aug 18 | 1 |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 | 1 |
+| Seq2Seq Hybrid | KDD | 19 Jul 18 |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 0 |  |
+| STGCN | IJCAI | 13 Jul 18 |  |  | 1 | 1 |  |  |  |  |  |  |  |  | 3 | 2 |  |
+| DCRNN | ICLR | 30 Apr 18 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |
+| SBU-LSTM | UrbComp | 14 Aug 17 |  |  |  |  |  |  | 1 |  |  |  |  |  | 2 | 1 |  |
+| GRU | YAC | 5 Jan 17 |  | 1 |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |
 
 
 
-|    model   |   venue   | published date |    A    |     A    |      A     |      A     |    A    |    A    |   A  |    A    |    A    |   N   |   N   |  N  |  N  |   N   |    N   |    N    |    N   |       |
-|:----------:|:---------:|:--------------:|:-------:|:--------:|:----------:|:----------:|:-------:|:-------:|:----:|:-------:|:-------:|:-----:|:-----:|:---:|:---:|:-----:|:------:|:-------:|:------:|-------|
-|            |           |                | METR-LA | PeMS-BAY | PeMS-D7(M) | PeMS-D7(L) | PeMS-04 | PeMS-08 | LOOP | PeMS-03 | PeMS-07 | INRIX | BJER4 | BJF | BRF | BRF-L | W3-715 | E5-2907 | Xiamen | TOTAL |
-|    DKFN    | SIGSPATIAL |     3 Nov 20   |    1    |          |            |            |         |         |  1   |         |         |       |       |     |     |       |    1   |    1    |        |   2   |
-|   H-STGCN  |    KDD    |    23 Aug 20   |         |          |            |            |         |         |      |         |         |       |       |     |     |       |    1   |    1    |        |   2   |
-|    AGCRN   |   arXiv   |    6 Jul 20    |         |          |            |            |    1    |    1    |      |         |         |       |       |     |     |       |        |         |        |   2   |
-|   TSE-SC   | Trans-GIS |    1 Jun 20    |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |         |        |   2   |
-|    STGNN   |    WWW    |    20 Apr 20   |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |         |        |   2   |
-|    GMAN    |    AAAI   |    7 Feb 20    |         |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |         |    1   |   2   |
-|  MRA-BGCN  |    AAAI   |    7 Feb 20    |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |         |        |   2   |
-|   STSGCN   |    AAAI   |    7 Feb 20    |         |          |            |            |    1    |    1    |      |    1    |    1    |       |       |     |     |       |        |         |        |   4   |
-|    SLCNN   |    AAAI   |    7 Feb 20    |    1    |     1    |      1     |            |         |         |      |         |         |       |       |  1  |  1  |   1   |        |         |        |   6   |
-|    GWNV2   |   arXiv   |    11 Dec 19   |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |         |        |   2   |
-|   DeepGLO  |  NeurIPS  |    8 Dec 19    |         |          |      1     |            |         |         |      |         |         |       |       |     |     |       |        |         |        |   1   |
-|  TGC-LSTM  |   T-ITS   |    28 Nov 19   |         |          |            |            |         |         |   1  |         |         |   1   |       |     |     |       |        |         |        |   2   |
-|     GWN    |   IJCAI   |    10 Aug 19   |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |         |        |   2   |
-| ST-MetaNet |    KDD    |    25 Jul 19   |    1    |          |            |            |         |         |      |         |         |       |       |     |     |       |        |         |        |   1   |
-|   ST-UNet  |   arXiv   |    13 Mar 19   |    1    |          |      1     |      1     |         |         |      |         |         |       |       |     |     |       |        |         |        |   3   |
-|   3D-TGCN  |   arXiv   |    3 Mar 19    |         |          |      1     |      1     |         |         |      |         |         |       |       |     |     |       |        |         |        |   2   |
-|   ASTGCN   |    AAAI   |    27 Jan 19   |         |          |            |            |    1    |    1    |      |         |         |       |       |     |     |       |        |         |        |   2   |
-|    GaAN    |    UAI    |    6 Aug 18    |    1    |          |            |            |         |         |      |         |         |       |       |     |     |       |        |         |        |   1   |
-|    STGCN   |   IJCAI   |    13 Jul 18   |         |          |      1     |      1     |         |         |      |         |         |       |   1   |     |     |       |        |         |        |   3   |
-|    DCRNN   |    ICLR   |    30 Apr 18   |    1    |     1    |            |            |         |         |      |         |         |       |       |     |     |       |        |         |        |   2   |
-|  SBU-LSTM  |  UrbComp  |    14 Aug 17   |         |          |            |            |         |         |   1  |         |         |   1   |       |     |     |       |        |         |        |   2   |
-|            |           |      TOTAL     |    11   |     8    |      5     |      3     |    3    |    3    |   3  |    1    |    1    |   2   |   1   |  1  |  1  |   1   |    1   |    1    |    1   |       |
 
 
 
 
-
-
-Notes: Some works, like DeepGLO and GaAN focuses on timeseries or graph, and uses other non-traffic datasets.
 
 
 
