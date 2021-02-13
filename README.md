@@ -335,7 +335,7 @@ Other lists:
 
 * [A Comprehensive Survey on Geometric Deep Learning](https://ieeexplore.ieee.org/abstract/document/9003285) IEEE Access 19 Feb 2020.
 
-* [Graph Neural Network for Traffic Forecasting: A Survey](https://arxiv.org/abs/2101.11174) arXiV 27 Jan 2021
+* [Graph Neural Network for Traffic Forecasting: A Survey](https://arxiv.org/abs/2101.11174) arXiV 27 Jan 2021 [GitHub](https://github.com/jwwthu/GNN4Traffic)
 
 * Older, pre-ML approaches: [On the modeling of traffic and crowds: A survey of models, speculations, and perspectives] (https://epubs.siam.org/doi/pdf/10.1137/090746677?casa_token=ramTXeUx3owAAAAA%3ABIA7wFjs6ZdGWqqCQ2iicLrZfUaZSTgZJtO8eYGDSvaI5IFPIQkCoZPi_btisCGJEV43HDedswY&) SIAM 2011
 
