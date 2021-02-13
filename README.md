@@ -107,6 +107,10 @@ NOTES: The experimental setttings may vary. But the common setting is:
 
 * Prediction window = 12 timesteps
 
+* Metrics = MAE, RMSE, MAPE
+
+* Train, validation, and test splits = 7/1/2 OR 6/2/2
+
 However, there are many caveats:
 
 * Some use different models for different prediction horizon.
@@ -115,10 +119,13 @@ However, there are many caveats:
 
 * Regarding adjacency matrix, some derive it using Gaussian RBF from the coordinates, some use the actual connectivity, some simply learn it, and some use combinations.
 
-* Some might also add more context, such as time of day, or day of the week.
+* Some might also add more context, such as time of day, or day of the week, or weather.
 
-* DeepGLO in particular, since it is treating it as a multi-channel timeseries without the spatial information, use rolling validation, 
+* DeepGLO in particular, since it is treating it as a multi-channel timeseries without the spatial information, use rolling validation,
 
+* Many different treatment of missing datasets, from exclusion to imputations.
+
+* Trai
 
 
 
