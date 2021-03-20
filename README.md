@@ -180,7 +180,7 @@ However, there are many caveats:
 
 [Baidu, code: 'umqd'](https://pan.baidu.com/share/init?surl=s1bauEJs8ONtC65ZkC4N3A)
 
-* **MnDOT** https://www.d.umn.edu/~tkwon/TMCdata/TMCarchive.html
+* **RMTMC - MnDOT** https://www.d.umn.edu/~tkwon/TMCdata/TMCarchive.html The data in this archive are continuously collected by the Regional Trasportation Management Center (RTMC), a division of Minesotta Deaprtment of Transport (MnDOT) USA.
 
 * **OpenITS** http://www.openits.cn/openData/index.jhtml
 
