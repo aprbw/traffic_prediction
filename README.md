@@ -206,6 +206,8 @@ The following datasets are not publically available:
     
     * E5-2907
 
+    * NE-BJ https://github.com/tsinghua-fib-lab/Traffic-Benchmark
+
 * Xiamen https://ieeexplore.ieee.org/document/8029849
 
 Also relevant:
@@ -238,6 +240,8 @@ You can find the bibtex in traffic_prediction.bib (not complete yet)
 |    DCRNN-RIL   |     2     |  TrustCom/BigDataSE |    31 Oct 19   | [Diffusion Convolutional Recurrent Neural Network with Rank Influence Learning for Traffic Forecasting](https://ieeexplore.ieee.org/abstract/document/8887408)                                                                         | []()                                                       |
 |     DDP-GCN    |     1     |        arXiv        |    7 Feb 20    | [DDP-GCN: Multi-Graph Convolutional Network for Spatiotemporal Traffic Forecasting](https://arxiv.org/abs/1905.12256)                                                                                                                  | []()                                                       |
 |     DeepGLO    |     22    |       NeurIPS       |    8 Dec 19    | [Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting](https://arxiv.org/abs/1905.03806)                                                                                            | []()                                                       |
+|      DGCRN     |     0     |        ArXiv        |   30 Apr 21    | [Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting](https://dl.acm.org/doi/abs/10.1145/3340531.3411894) | [PyTorch](https://github.com/RobinLu1209/STAG-GCN) |
+
 |      DKFN      |      0    |      SIGSPATIAL     |    3 Nov 20    | [Graph Convolutional Networks with Kalman Filtering for Traffic Prediction](https://dl.acm.org/doi/10.1145/3397536.3422257)                                                                              | [PyTorch](https://github.com/Fanglanc/DKFN)                  |
 |     DSTGNN     |     0     |        arXiv        |    12 Mar 20   | [Dynamic Spatiotemporal Graph Neural Network with Tensor Network](https://arxiv.org/abs/2003.08729)                                                                                                                                    | []()                                                       |
 |     FASTGNN    |     0     |         TII         |    29 Jan 21   | [FASTGNN: A Topological Information Protected Federated Learning Approach For Traffic Speed Forecasting](https://ieeexplore.ieee.org/abstract/document/9340313)                                                                                                                                    | []()                                                       |
