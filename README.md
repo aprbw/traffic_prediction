@@ -380,6 +380,8 @@ Other lists:
 
 * [Graph Neural Network for Traffic Forecasting: A Survey](https://arxiv.org/abs/2101.11174) arXiV 27 Jan 2021 [GitHub](https://github.com/jwwthu/GNN4Traffic)
 
+* [BigsCity LibCity: Traffic Prediction Paper Collection](https://github.com/LibCity/Bigscity-LibCity-Paper) In the paper collection, we collected traffic prediction papers published in the recent years (2016-now) on 11 top conferences and journals, namely, AAAI, IJCAI, KDD, CIKM, ICDM, WWW, NIPS, ICLR, SIGSPATIAL, IEEE TKDE and IEEE TITS. In addition, the surveys since 2016 and representative papers mentioned in the surveys are also included. 
+
 * Older, pre-ML approaches: [On the modeling of traffic and crowds: A survey of models, speculations, and perspectives](https://epubs.siam.org/doi/pdf/10.1137/090746677?casa_token=ramTXeUx3owAAAAA%3ABIA7wFjs6ZdGWqqCQ2iicLrZfUaZSTgZJtO8eYGDSvaI5IFPIQkCoZPi_btisCGJEV43HDedswY&) SIAM 2011
 
 * https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers
