@@ -390,7 +390,7 @@ Other lists:
 
 * https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress
 
-
+* [DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction](https://arxiv.org/abs/2108.09091) CIKM 2021 [GitHub PyTorch](https://github.com/deepkashiwa20/DL-Traff-Grid)
 
 
 
