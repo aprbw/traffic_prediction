@@ -217,6 +217,15 @@ Also relevant:
 
 
 
+## Libraries
+
+* [LibCity](https://libcity.ai/) [GitHub](https://github.com/LibCity/Bigscity-LibCity)
+
+* Tsinghua Fib Lab [GitHub](https://github.com/tsinghua-fib-lab/Traffic-Benchmark)
+
+
+
+
 ## Paper
 
 The papers are sorted alphabetically based on model name. The citations are based on Google scholar citation.
