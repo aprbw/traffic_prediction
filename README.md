@@ -174,6 +174,8 @@ However, there are many caveats:
 
     * **PeMS-SF** [UCI](https://archive.ics.uci.edu/ml/datasets/PEMS-SF)
 
+    * **PeMS-11160** [GP-DCRNN github](https://github.com/tanwimallick/graph_partition_based_DCRNN)
+
 * **LOOP** https://github.com/zhiyongc/Seattle-Loop-Data
 
 * **Q-Traffic** https://github.com/JingqingZ/BaiduTraffic
