@@ -391,7 +391,7 @@ Other lists:
 
 * [A Comprehensive Survey on Geometric Deep Learning](https://ieeexplore.ieee.org/abstract/document/9003285) IEEE Access 19 Feb 2020.
 
-* [Graph Neural Network for Traffic Forecasting: A Survey](https://arxiv.org/abs/2101.11174) arXiV 27 Jan 2021 [GitHub](https://github.com/jwwthu/GNN4Traffic)
+* [Graph Neural Network for Traffic Forecasting: A Survey](https://arxiv.org/abs/2101.11174) Expert Systems with Applications [GitHub](https://github.com/jwwthu/GNN4Traffic)
 
 * [BigsCity LibCity: Traffic Prediction Paper Collection](https://github.com/LibCity/Bigscity-LibCity-Paper) In the paper collection, we collected traffic prediction papers published in the recent years (2016-now) on 11 top conferences and journals, namely, AAAI, IJCAI, KDD, CIKM, ICDM, WWW, NIPS, ICLR, SIGSPATIAL, IEEE TKDE and IEEE TITS. In addition, the surveys since 2016 and representative papers mentioned in the surveys are also included. 
 
