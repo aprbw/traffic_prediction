@@ -28,6 +28,7 @@ NO GUARANTEE is made that this table is complete or accurate (please raise an is
 | paper | venue | published date | # other datsets | METR-LA | PeMS-BAY | PeMS-D7(M) | PeMS-D7(L) | PeMS-04 | PeMS-08 | LOOP | SZ-taxi | Los-loop | PeMS-03 | PeMS-07 | PeMS-I-405 | PeMS-04(S) | TOTAL open |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|-|:-:|
 |  |  | TOTAL |  | 38 | 28 | 6 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 | 1 | 91 |
+| G-SWaN | IoTDI | 9 May 23 |   | 1 | 1 |  |  | 1 | 1 |  |  |  |  |  |  |  | 2 |
 | GTS | ICLR | 4 May 21 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  | 2 |
 | FASTGNN | TII | 29 Jan 21 |  |  |  | 1 |  |  |  |  |  |  |  |  |  |  | 1 |
 | HetGAT | JAIHC | 23 Jan 21 |  | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  | 2 |
@@ -225,7 +226,7 @@ Also relevant:
 
 * Tsinghua Fib Lab [GitHub](https://github.com/tsinghua-fib-lab/Traffic-Benchmark)
 
-
+* [PyTorch Geometric](https://pytorch-geometric.readthedocs.io)
 
 
 ## Paper
@@ -262,6 +263,7 @@ You can find the bibtex in traffic_prediction.bib (not complete yet)
 |      GMAN      |     20    |         AAAI        |    7 Feb 20    | [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://arxiv.org/abs/1911.08415)                                                                                                                                       | [tf](https://github.com/zhengchuanpan/GMAN)                |
 |       GRU      |    308    |         YAC         |    5 Jan 17    | [Using LSTM and GRU neural network methods for traffic flow prediction](https://ieeexplore.ieee.org/abstract/document/7804912)                                                                                                         | [Keras](https://github.com/xiaochus/TrafficFlowPrediction) |
 |     GST-GAT    |     0     |     IEEE Access      |    6 Jan 21    | [Modeling Global Spatial–Temporal Graph Attention Network for Traffic Prediction](https://ieeexplore.ieee.org/abstract/document/9316302) |                                                     |
+|     G-SWaN    |     0     |     IoTDI      |    9 May 23    | [Because Every Sensor Is Unique, so Is Every Pair: Handling Dynamicity in Traffic Forecasting](https://arxiv.org/abs/2302.09956) |  [PyTorch](https://github.com/aprbw/G-SWaN)  |
 |       GTS      |     0     |        UCONN        |    3 Aug 20    | [End-to-End Structure-Aware Convolutional Networks on Graphs](https://opencommons.uconn.edu/dissertations/2555/)                                                                                                                       | []()                                                       |
 |       GTS      |     0     |        ICLR         |    4 May 21    | [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/forum?id=WEHSlH5mOk)       | [PyTorch](https://github.com/chaoshangcs/GTS) |
 |       GWN      |     46    |        IJCAI        |    10 Aug 19   | [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://www.ijcai.org/Proceedings/2019/0264.pdf)                                                                                                                              | [PyTorch](https://github.com/nnzhan/Graph-WaveNet)         |
