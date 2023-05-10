@@ -27,8 +27,9 @@ NO GUARANTEE is made that this table is complete or accurate (please raise an is
 
 | paper | venue | published date | # other datsets | METR-LA | PeMS-BAY | PeMS-D7(M) | PeMS-D7(L) | PeMS-04 | PeMS-08 | LOOP | SZ-taxi | Los-loop | PeMS-03 | PeMS-07 | PeMS-I-405 | PeMS-04(S) | TOTAL open |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|-|:-:|
-|  |  | TOTAL |  | 38 | 28 | 6 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 | 1 | 91 |
-| G-SWaN | IoTDI | 9 May 23 |   | 1 | 1 |  |  | 1 | 1 |  |  |  |  |  |  |  | 2 |
+|  |  | TOTAL |  | 38 | 28 | 6 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 | 1 | 95 |
+| SCPT | ArXiv | 9 May 23 | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 4 |
+| G-SWaN | IoTDI | 9 May 23 |   | 1 | 1 |  |  | 1 | 1 |  |  |  |  |  |  |  | 4 |
 | GTS | ICLR | 4 May 21 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  | 2 |
 | FASTGNN | TII | 29 Jan 21 |  |  |  | 1 |  |  |  |  |  |  |  |  |  |  | 1 |
 | HetGAT | JAIHC | 23 Jan 21 |  | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  | 2 |
@@ -283,6 +284,9 @@ You can find the bibtex in traffic_prediction.bib (not complete yet)
 |      RSTAG     |     3     |        IoT-J        |    19 Feb 20   | [Reinforced Spatiotemporal Attentive Graph Neural Networks for Traffic Forecasting](https://ieeexplore.ieee.org/abstract/document/9003261)                                                                                             | []()                                                       |
 |       SAE      |    1626   |        T-ITS        |    9 Sep 14    | [Traffic flow prediction with big data: a deep learning approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6894591&casa_token=5sdFl519NNoAAAAA:iBT5EdQxzJPUr_Ljh3nT1nM83jCux71OKcG7RUrctrMi1sgPb49Sb1GLU_CGZ9AA92w9y-B-vg) | [Keras](https://github.com/xiaochus/TrafficFlowPrediction) |
 |    SBU-LSTM    |    157    |       UrbComp       |    14 Aug 17   | [Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction](https://arxiv.org/abs/1801.02143)                                                                                      | []()                                                       |
+
+|    SCPT    |    0    |       ArXiv       |    9 Aug 23   | [Traffic Forecasting on New Roads Unseen in the Training Data Using Spatial Contrastive Pre-Training](https://arxiv.org/abs/2305.05237)                                                                                      | []()                                                       |
+
 | Seq2Seq Hybrid |     48    |         KDD         |    19 Jul 18   | [Deep Sequence Learning with Auxiliary Information for Traffic Prediction](https://dl.acm.org/doi/10.1145/3219819.3219895)                                                                                                             | [tf](https://github.com/JingqingZ/BaiduTraffic)            |
 |      SGMN      |     1     |        J. TRC       |    20 Aug 20   | [Graph Markov network for traffic forecasting with missing data](https://www.sciencedirect.com/science/article/pii/S0968090X20305866)                                                                                                  | []()                                                       |
 |      SLCNN     |     1     |         AAAI        |    7 Feb 20    | [Spatio-Temporal Graph Structure Learning for Traffic Forecasting](https://aaai.org/ojs/index.php/AAAI/article/view/5470/5326)                                                                                                         | []()                                                       |
