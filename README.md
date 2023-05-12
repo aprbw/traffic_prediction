@@ -28,8 +28,9 @@ NO GUARANTEE is made that this table is complete or accurate (please raise an is
 | paper | venue | published date | # other datsets | METR-LA | PeMS-BAY | PeMS-D7(M) | PeMS-D7(L) | PeMS-04 | PeMS-08 | LOOP | SZ-taxi | Los-loop | PeMS-03 | PeMS-07 | PeMS-I-405 | PeMS-04(S) | TOTAL open |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|-|:-:|
 |  |  | TOTAL |  | 38 | 28 | 6 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 | 1 | 95 |
-| SCPT | ArXiv | 9 May 23 | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 4 |
 | G-SWaN | IoTDI | 9 May 23 |   | 1 | 1 |  |  | 1 | 1 |  |  |  |  |  |  |  | 4 |
+| SCPT | ArXiv | 9 May 23 | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 4 |
+| MP-WaveNet | ArXiv | 9 May 23 |  1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  | 2 |
 | GTS | ICLR | 4 May 21 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  | 2 |
 | FASTGNN | TII | 29 Jan 21 |  |  |  | 1 |  |  |  |  |  |  |  |  |  |  | 1 |
 | HetGAT | JAIHC | 23 Jan 21 |  | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  | 2 |
@@ -276,6 +277,7 @@ You can find the bibtex in traffic_prediction.bib (not complete yet)
 |     L-VGAE     |     0     |        arXiv        |    18 Oct 19   | [Decoupling feature propagation from the design of graph auto-encoders](https://arxiv.org/abs/1910.08589)                                                                                                                              | []()                                                       |
 |      LSTM      |     39    |        TENCON       |    22 Nov 16   | [Traffic flow prediction with Long Short-Term Memory Networks (LSTMs)](https://ieeexplore.ieee.org/abstract/document/7848593)                                                                                                          | []()                                                       |
 |       M2       |     1     |       J. AdHoc      |    1 Sep 20    | [A performance modeling and analysis of a novel vehicular traffic flow prediction system using a hybrid machine learning-based model](https://www.sciencedirect.com/science/article/abs/pii/S1570870520301803)                         | []()                                                       |
+|   MP-WaveNet   |     0     |       ArXiv      |    9 May 23    | [Message Passing Neural Networks for Traffic Forecasting](https://arxiv.org/abs/2305.05740)                         | []()                                                       |
 |    MRA-BGCN    |     7     |         AAAI        |    7 Feb 20    | [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://aaai.org/ojs/index.php/AAAI/article/view/5758/5614)                                                                                    | []()                                                       |
 |   MRes-RGNN-G  |     20    |         AAAI        |    17 Jul 19   | [Gated Residual Recurrent Graph Neural Networks for Traffic Prediction](https://www.aaai.org/ojs/index.php/AAAI/article/view/3821)                                                                                                     | []()                                                       |
 |      MTGNN     |     7     |        arXiv        |    24 May 20   | [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](https://arxiv.org/abs/2005.11650)                                                                                                               | []()                                                       |
