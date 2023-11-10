@@ -1,3 +1,5 @@
+This list can be considered outdated. For a more up-to-date list, check: https://github.com/lixus7/Time-Series-Works-Conferences
+
 # Traffic Prediction
 
 Traffic prediction is the task of predicting future traffic measurements (e.g. volume, speed, etc.) in a road network (graph), using historical data (timeseries).
